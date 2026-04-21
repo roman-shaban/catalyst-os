@@ -23,9 +23,9 @@ The April 20 incident highlighted three critical gaps that **CIOS** is built to 
 
 The Catalyst OS stack is organized into specialized layers:
 
-* **[Onto Protocol](https://github.com/your-username/onto-protocol)** — The semantic standard and interaction protocol for AI agents.
-* **[Compliance Engine](https://github.com/your-username/onto-compliance-engine)** — The core engine for policy enforcement and action validation.
-* **Incident Engine** — Automated detection and analysis of AI failures (as seen during the April 20 event).
+* **[Onto Protocol](https://github.com/roman-shaban/onto-protocol)** — The semantic standard and interaction protocol for AI agents.
+* **[Compliance Engine](https://github.com/roman-shaban/onto-compliance-engine)** — The core engine for policy enforcement and action validation.
+* **Incident Engine** — Automated detection and analysis of AI failures (as seen during the [April 20 Post-Mortem](./docs/post-mortem-april-20.md)).
 
 ---
 
