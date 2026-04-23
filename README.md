@@ -1,6 +1,6 @@
 # Catalyst OS (CIOS) 🛡️
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19713190.svg)](https://doi.org/10.5281/zenodo.19713190)
+[![DOI](https://zenodo.org/badge/1217102497.svg)](https://doi.org/10.5281/zenodo.19713369)
 
 **Catalyst Intelligence Operating System** is a foundational infrastructure layer designed for controlled, auditable, and structured AI execution.
 
